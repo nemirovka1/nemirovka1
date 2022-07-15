@@ -3,9 +3,9 @@
 <ul> 
 <p>🔭 I’m currently working on a lot of different stuff</p>
 <p>🌱 I’m currently learning everything I can get my hands on</p>
-<li>🤔 I’m looking for help with finding more time in a single day</li>
-<li>📫 How to reach me: kateryna.nemirovskay@gmail.com</li>
-<li>⚡ Fun fact: I love what I do - code and help people learn coding</li>
+<p>🤔 I’m looking for help with finding more time in a single day</p>
+<p>📫 How to reach me: kateryna.nemirovskay@gmail.com</p>
+<p>⚡ Fun fact: I love what I do - code and help people learn coding</p>
  </ul>
 <br></br>
 
