@@ -1,5 +1,5 @@
 <h2>Hello , my name Katerina 🥰</h2>
-<p>Welcome to my page 😎</p>
+<h3>Welcome to my page 😎</h3>
 <ul> 
 <p>🔭 I’m currently working on a lot of different stuff</p>
 <p>🌱 I’m currently learning everything I can get my hands on</p>
@@ -8,8 +8,7 @@
 <p>⚡ Fun fact: I love what I do - code and help people learn coding</p>
  </ul>
 <br></br>
-
-### Skills and Tools 
+<h3>Skills and Tools</h3> 
 <img align="left" alt="HTML5" width="30px"
 src="https://user-images.githubusercontent.com/106702583/179249004-83788238-3e0e-42fc-b48d-d94316bb66d4.svg">
 <img align="left" alt="JS" width="30px"
