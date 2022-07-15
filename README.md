@@ -1,5 +1,5 @@
 <h2>Hello , my name Katerina 🥰</h2>
-<p>Welcome to my page 👀)</p>
+<p>Welcome to my page 😎</p>
 
 <br></br>
 
