@@ -7,7 +7,7 @@
 <p>📫 How to reach me: <a href="kateryna.nemirovskay@gmail.com">kateryna.nemirovskay@gmail.com</a></p>
 <p>⚡ Fun fact: I love what I do - code and help people learn coding</p></ul>
 <br></br>
-<h2>SKILLS AND TOOLS</h2> 
+<h2>📌SKILLS AND TOOLS</h2> 
 <img align="left" alt="HTML5" width="35px"
 src="https://user-images.githubusercontent.com/106702583/179249004-83788238-3e0e-42fc-b48d-d94316bb66d4.svg">
 <img align="left" alt="JS" width="35px"
