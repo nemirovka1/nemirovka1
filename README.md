@@ -1,8 +1,7 @@
 <h2>Hello , my name Katerina 🥰</h2>
 <h3>Welcome to my page 😎</h3>
-<ul> 
-<p>🔭 I’m currently working on a lot of different stuff</p>
-<p>🌱 I’m currently learning everything I can get my hands on</p>
+<ul>
+<p>🔭 I’m currently learning everything I can get my hands on</p>
 <p>🤔 I’m looking for help with finding more time in a single day</p>
 <p>📫 How to reach me: <a href="kateryna.nemirovskay@gmail.com">kateryna.nemirovskay@gmail.com</a></p>
 <p>🤖You are your only limit </p></ul>
