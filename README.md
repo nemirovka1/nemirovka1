@@ -25,6 +25,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4">
 <img align="left" alt="RESCT" width="35px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="left" alt="RESCT" width="35px"
+<img align="left" alt="RESCT" width="35px background="black"
 src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png">
 
