@@ -7,7 +7,7 @@
 <p>🤖You are your only limit </p></ul>
 <img
 <a href="https://www.instagram.com/nemirovka_3/?igshid=YmMyMTA2M2Y%3D"> <img align="left" alt="HTML5" width="35px"
-src="https://user-images.githubusercontent.com/106702583/179249004-83788238-3e0e-42fc-b48d-d94316bb66d4.svg"></a>
+src="https://www.instagram.com/nemirovka_3/?igshid=YmMyMTA2M2Y%3D"></a>
 <br></br>
 <h2>📌SKILLS AND TOOLS</h2>
 <img align="left" alt="HTML5" width="35px"
