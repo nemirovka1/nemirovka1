@@ -3,16 +3,15 @@
 <ul>
 <p>🔭 I’m currently learning everything I can get my hands on</p>
 <p>🤔 I’m looking for help with finding more time in a single day</p>
-<p>📫 How to reach me: <a href="kateryna.nemirovskay@gmail.com">kateryna.nemirovskay@gmail.com</a></p>
 <p>🤖You are your only limit </p></ul>
 <h3>Contact me 📞</h3>
 <ul>
 <a href="https://www.instagram.com/nemirovka_3/?igshid=YmMyMTA2M2Y%3D"><img align="left" alt="Instagram" width="25px"
-src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg"/></a>
+src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/nemirovka/"><img align="left" alt="LinkedIn" width="25px"
-src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <a href="kateryna.nemirovskay@gmail.com"><img align="left" alt="LinkedIn" width="25px"
-src=" https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
+src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
 </ul>
 <br></br>
 <h2>📌SKILLS AND TOOLS</h2>
