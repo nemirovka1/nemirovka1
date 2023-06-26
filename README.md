@@ -1,4 +1,4 @@
-<h2>Hello , my name Katerina 🥰</h2>
+d<h2>Hello , my name Katerina 🥰</h2>
 <h3>Welcome to my page 😎</h3>
 <ul>
 <p>🔭 I’m currently learning everything I can get my hands on</p>
@@ -6,8 +6,6 @@
 <p>🤖You are your only limit </p></ul>
 <h3>Contact me 📞</h3>
 <ul>
-<a href="https://www.instagram.com/nemirovka_3/?igshid=YmMyMTA2M2Y%3D"><img align="left" alt="Instagram" width="30px"
-src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/nemirovka/"><img align="left" alt="LinkedIn" width="30px"
 src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <a href="http://kateryna.nemirovskay@gmail.com"><img align="left" alt="LinkedIn" width="30px"
