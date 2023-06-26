@@ -1,4 +1,4 @@
-<h2>Hello , my name Katerina 🥰</h2>
+<h2>Hello </h2>
 <h3>Welcome to my page 😎</h3>
 <ul>
 <p>🔭 I’m currently learning everything I can get my hands on</p>
