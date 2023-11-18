@@ -1,9 +1,5 @@
 <h2>Hello </h2>
 <h3>Welcome to my page 😎</h3>
-<ul>
-<p>🔭 I’m currently learning everything I can get my hands on</p>
-<p>🤔 I’m looking for help with finding more time in a single day</p>
-<p>🤖You are your only limit </p></ul>
 <h3>Contact me 📞</h3>
 <ul>
 <a href="https://www.linkedin.com/in/nemirovka/"><img align="left" alt="LinkedIn" width="30px"
